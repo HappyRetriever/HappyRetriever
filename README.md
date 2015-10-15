@@ -1,2 +1,3 @@
 # Hello Everyone, this is HappyRetriever that offers you users hosts file for climbing Great Wall Firewall, Please use it for individual only, thank you.
+# With this file, you can browse foreign websites directly, such as google.com, twitter.com, gmail.com, facebook.com, flickr.com, etc. If you use a PC with Windows OS, you can put the hosts file into C:\Windows\System32\Drivers\etc\, replace the original file. If you use a Linux kernal with Debian/Ubuntu OS, you can put the hosts file into /etc/. If you use a Mobile Device with Android OS, you can put the hosts file into /system/etc/. NOTE: The Linebreak Code in different OS is not same. In Linux/Android it is LF, in Windows it is CRLF, in Macintosh it is CR.
 # File edited by HappyRetriever @ 2015, all rights reserved.
